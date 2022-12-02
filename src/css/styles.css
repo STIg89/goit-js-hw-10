@@ -18,3 +18,13 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+li {
+  display: flex;
+  gap: 20px;
+}
+
+.info-h {
+  display: flex;
+  gap: 20px;
+}
